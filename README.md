@@ -1,3 +1,4 @@
 # LC_Blips
-Create Blips from the config File 
+Create Blips within the config File 
+
 THIS IS ONLY FOR QBCORE ONLY
